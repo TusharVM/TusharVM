@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TusharVM
+- 😄 Pronouns: he/him
+- Thank you for visiting my personal GitHub page.
